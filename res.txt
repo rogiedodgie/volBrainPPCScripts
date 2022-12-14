@@ -1,0 +1,608 @@
+PercMeas Diff for White Matter (WM) volume % : p = 0.685, Greater in Athletes, mean = 4.477
+PercMeas Diff for Grey Matter (GM) volume % : p = 0.000, Greater in Athletes, mean = 55.133
+PercMeas Diff for Subcortical GM volume % : p = 0.346, Greater in Athletes, mean = 9.365
+PercMeas Diff for Cortical GM volume % : p = 0.001, Greater in Athletes, mean = 46.953
+PercMeas Diff for Cerebellar GM volume % : p = 0.076, Greater in Athletes, mean = 16.238
+PercMeas Diff for Cerebro Spinal Fluid (CSF) volume % : p = 0.006, Lesser in Athletes, mean = -44.138
+PercMeas Diff for Brain (WM+GM) volume % : p = 0.006, Greater in Athletes, mean = 44.601
+PercMeas Diff for Intracranial Cavity (IC) volume % : p = NaN, Void, mean = NaN
+PercMeas Diff for Cerebrum total volume % : p = 0.024, Greater in Athletes, mean = 33.653
+PercMeas Diff for Cerebrum right volume % : p = 0.024, Greater in Athletes, mean = 35.602
+PercMeas Diff for Cerebrum left volume % : p = 0.034, Greater in Athletes, mean = 29.711
+PercMeas Diff for Cerebrum volume asymmetry : p = 0.031, Greater in Athletes, mean = 380.473
+PercMeas Diff for Cerebrum WM total volume % : p = 0.861, Greater in Athletes, mean = 1.888
+PercMeas Diff for Cerebrum WM right volume % : p = 0.800, Greater in Athletes, mean = 2.814
+PercMeas Diff for Cerebrum WM left volume % : p = 0.937, Greater in Athletes, mean = 0.826
+PercMeas Diff for Cerebrum WM volume asymmetry : p = 0.908, Lesser in Athletes, mean = -21.697
+PercMeas Diff for Cerebrum GM total volume % : p = 0.001, Greater in Athletes, mean = 48.206
+PercMeas Diff for Cerebrum GM right volume % : p = 0.001, Greater in Athletes, mean = 50.913
+PercMeas Diff for Cerebrum GM left volume % : p = 0.002, Greater in Athletes, mean = 42.986
+PercMeas Diff for Cerebrum GM volume asymmetry : p = 0.000, Greater in Athletes, mean = 606.925
+PercMeas Diff for Cerebellum total volume % : p = 0.035, Greater in Athletes, mean = 20.616
+PercMeas Diff for Cerebellum right volume % : p = 0.019, Greater in Athletes, mean = 22.461
+PercMeas Diff for Cerebellum left volume % : p = 0.056, Greater in Athletes, mean = 18.883
+PercMeas Diff for Cerebellum volume asymmetry : p = 0.000, Greater in Athletes, mean = 776.050
+PercMeas Diff for Cerebellum WM total volume % : p = 0.133, Greater in Athletes, mean = 16.924
+PercMeas Diff for Cerebellum WM right volume % : p = 0.184, Greater in Athletes, mean = 14.288
+PercMeas Diff for Cerebellum WM left volume % : p = 0.110, Greater in Athletes, mean = 18.466
+PercMeas Diff for Cerebellum WM volume asymmetry : p = 0.737, Greater in Athletes, mean = 40.612
+PercMeas Diff for Cerebellum GM total volume % : p = 0.036, Greater in Athletes, mean = 19.554
+PercMeas Diff for Cerebellum GM right volume % : p = 0.016, Greater in Athletes, mean = 21.600
+PercMeas Diff for Cerebellum GM left volume % : p = 0.081, Greater in Athletes, mean = 16.442
+PercMeas Diff for Cerebellum GM volume asymmetry : p = 0.000, Greater in Athletes, mean = 893.687
+PercMeas Diff for Vermis volume % : p = 0.390, Lesser in Athletes, mean = -8.201
+PercMeas Diff for Brainstem volume % : p = 0.864, Lesser in Athletes, mean = -1.753
+PercMeas Diff for Accumbens total volume % : p = 0.061, Lesser in Athletes, mean = -18.263
+PercMeas Diff for Accumbens right volume % : p = 0.019, Lesser in Athletes, mean = -21.806
+PercMeas Diff for Accumbens left volume % : p = 0.251, Lesser in Athletes, mean = -11.438
+PercMeas Diff for Accumbens volume asymmetry : p = 0.000, Lesser in Athletes, mean = -1098.627
+PercMeas Diff for Amygdala total volume % : p = 0.859, Lesser in Athletes, mean = -1.701
+PercMeas Diff for Amygdala right volume % : p = 0.548, Greater in Athletes, mean = 5.507
+PercMeas Diff for Amygdala left volume % : p = 0.380, Lesser in Athletes, mean = -8.619
+PercMeas Diff for Amygdala volume asymmetry : p = 0.000, Greater in Athletes, mean = 1037.476
+PercMeas Diff for Basal forebrain total volume % : p = 0.000, Lesser in Athletes, mean = -609.473
+PercMeas Diff for Basal forebrain right volume % : p = 0.000, Lesser in Athletes, mean = -609.456
+PercMeas Diff for Basal forebrain left volume % : p = 0.000, Lesser in Athletes, mean = -583.838
+PercMeas Diff for Basal forebrain volume asymmetry : p = 0.000, Lesser in Athletes, mean = -4250.691
+PercMeas Diff for Caudate total volume % : p = 0.000, Lesser in Athletes, mean = -98.690
+PercMeas Diff for Caudate right volume % : p = 0.000, Lesser in Athletes, mean = -93.178
+PercMeas Diff for Caudate left volume % : p = 0.000, Lesser in Athletes, mean = -95.185
+PercMeas Diff for Caudate volume asymmetry : p = 0.000, Greater in Athletes, mean = 313.630
+PercMeas Diff for Hippocampus total volume % : p = 0.000, Greater in Athletes, mean = 1036.106
+PercMeas Diff for Hippocampus right volume % : p = 0.000, Greater in Athletes, mean = 1025.972
+PercMeas Diff for Hippocampus left volume % : p = 0.000, Greater in Athletes, mean = 985.703
+PercMeas Diff for Hippocampus volume asymmetry : p = 0.001, Greater in Athletes, mean = 513.513
+PercMeas Diff for Pallidum total volume % : p = 0.000, Lesser in Athletes, mean = -546.697
+PercMeas Diff for Pallidum right volume % : p = 0.000, Lesser in Athletes, mean = -560.065
+PercMeas Diff for Pallidum left volume % : p = 0.000, Lesser in Athletes, mean = -519.192
+PercMeas Diff for Pallidum volume asymmetry : p = 0.000, Lesser in Athletes, mean = -1493.332
+PercMeas Diff for Putamen total volume % : p = 0.000, Lesser in Athletes, mean = -585.121
+PercMeas Diff for Putamen right volume % : p = 0.000, Lesser in Athletes, mean = -575.271
+PercMeas Diff for Putamen left volume % : p = 0.000, Lesser in Athletes, mean = -572.864
+PercMeas Diff for Putamen volume asymmetry : p = 0.079, Lesser in Athletes, mean = -390.390
+PercMeas Diff for Thalamus total volume % : p = 0.000, Greater in Athletes, mean = 12195.350
+PercMeas Diff for Thalamus right volume % : p = 0.000, Greater in Athletes, mean = 12264.824
+PercMeas Diff for Thalamus left volume % : p = 0.000, Greater in Athletes, mean = 10490.910
+PercMeas Diff for Thalamus volume asymmetry : p = 0.218, Greater in Athletes, mean = 30.143
+PercMeas Diff for Ventral DC total volume % : p = 0.303, Greater in Athletes, mean = 10.685
+PercMeas Diff for Ventral DC right volume % : p = 0.519, Greater in Athletes, mean = 7.207
+PercMeas Diff for Ventral DC left volume % : p = 0.169, Greater in Athletes, mean = 13.443
+PercMeas Diff for Ventral DC volume asymmetry : p = 0.000, Lesser in Athletes, mean = -1335.167
+PercMeas Diff for Frontal lobe total volume % : p = 0.128, Greater in Athletes, mean = 17.302
+PercMeas Diff for Frontal lobe right volume % : p = 0.078, Greater in Athletes, mean = 20.772
+PercMeas Diff for Frontal lobe left volume % : p = 0.207, Greater in Athletes, mean = 13.439
+PercMeas Diff for Frontal lobe volume asymmetry : p = 0.000, Greater in Athletes, mean = 656.784
+PercMeas Diff for Frontal pole total volume % : p = 0.000, Lesser in Athletes, mean = -566.715
+PercMeas Diff for Frontal pole right volume % : p = 0.000, Lesser in Athletes, mean = -481.508
+PercMeas Diff for Frontal pole left volume % : p = 0.000, Lesser in Athletes, mean = -497.278
+PercMeas Diff for Frontal pole volume asymmetry : p = 0.055, Greater in Athletes, mean = 296.918
+PercMeas Diff for Gyrus rectus total volume % : p = 0.000, Lesser in Athletes, mean = -125.319
+PercMeas Diff for Gyrus rectus right volume % : p = 0.000, Lesser in Athletes, mean = -71.293
+PercMeas Diff for Gyrus rectus left volume % : p = 0.000, Lesser in Athletes, mean = -135.903
+PercMeas Diff for Gyrus rectus volume asymmetry : p = 0.000, Greater in Athletes, mean = 868.125
+PercMeas Diff for Opercular inf. frontal gyrus total volume % : p = 0.000, Greater in Athletes, mean = 255.254
+PercMeas Diff for Opercular inf. frontal gyrus right volume % : p = 0.000, Greater in Athletes, mean = 209.839
+PercMeas Diff for Opercular inf. frontal gyrus left volume % : p = 0.000, Greater in Athletes, mean = 217.481
+PercMeas Diff for Opercular inf. frontal gyrus volume asymmetry : p = 0.082, Lesser in Athletes, mean = -287.215
+PercMeas Diff for Orbital inf. frontal gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -300.565
+PercMeas Diff for Orbital inf. frontal gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -293.003
+PercMeas Diff for Orbital inf. frontal gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -256.345
+PercMeas Diff for Orbital inf. frontal gyrus volume asymmetry : p = 0.791, Greater in Athletes, mean = 84.654
+PercMeas Diff for Triangular inf. frontal gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -266.822
+PercMeas Diff for Triangular inf. frontal gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -210.264
+PercMeas Diff for Triangular inf. frontal gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -183.346
+PercMeas Diff for Triangular inf. frontal gyrus volume asymmetry : p = 0.103, Lesser in Athletes, mean = -230.766
+PercMeas Diff for Medial frontal cortex total volume % : p = 0.000, Lesser in Athletes, mean = -729.195
+PercMeas Diff for Medial frontal cortex right volume % : p = 0.000, Lesser in Athletes, mean = -626.242
+PercMeas Diff for Medial frontal cortex left volume % : p = 0.000, Lesser in Athletes, mean = -681.162
+PercMeas Diff for Medial frontal cortex volume asymmetry : p = 0.593, Greater in Athletes, mean = 218.265
+PercMeas Diff for Middle frontal gyrus total volume % : p = 0.000, Greater in Athletes, mean = 1868.080
+PercMeas Diff for Middle frontal gyrus right volume % : p = 0.000, Greater in Athletes, mean = 1378.772
+PercMeas Diff for Middle frontal gyrus left volume % : p = 0.000, Greater in Athletes, mean = 1463.711
+PercMeas Diff for Middle frontal gyrus volume asymmetry : p = 0.317, Greater in Athletes, mean = 32.400
+PercMeas Diff for Anterior orbital gyrus total volume % : p = 0.000, Greater in Athletes, mean = 134.130
+PercMeas Diff for Anterior orbital gyrus right volume % : p = 0.000, Greater in Athletes, mean = 124.845
+PercMeas Diff for Anterior orbital gyrus left volume % : p = 0.000, Greater in Athletes, mean = 90.449
+PercMeas Diff for Anterior orbital gyrus volume asymmetry : p = 0.066, Greater in Athletes, mean = 191.652
+PercMeas Diff for Lateral orbital gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -117.539
+PercMeas Diff for Lateral orbital gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -94.352
+PercMeas Diff for Lateral orbital gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -93.663
+PercMeas Diff for Lateral orbital gyrus volume asymmetry : p = 0.589, Lesser in Athletes, mean = -60.965
+PercMeas Diff for Medial orbital gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -652.236
+PercMeas Diff for Medial orbital gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -549.446
+PercMeas Diff for Medial orbital gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -572.640
+PercMeas Diff for Medial orbital gyrus volume asymmetry : p = 0.465, Lesser in Athletes, mean = -129.159
+PercMeas Diff for Posterior orbital gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -247.747
+PercMeas Diff for Posterior orbital gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -193.345
+PercMeas Diff for Posterior orbital gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -197.562
+PercMeas Diff for Posterior orbital gyrus volume asymmetry : p = 0.751, Greater in Athletes, mean = 41.145
+PercMeas Diff for Precentral gyrus total volume % : p = 0.000, Greater in Athletes, mean = 2531.763
+PercMeas Diff for Precentral gyrus right volume % : p = 0.000, Greater in Athletes, mean = 1698.390
+PercMeas Diff for Precentral gyrus left volume % : p = 0.000, Greater in Athletes, mean = 1859.990
+PercMeas Diff for Precentral gyrus volume asymmetry : p = 0.003, Greater in Athletes, mean = 124.410
+PercMeas Diff for Precentral gyrus medial segment total volume % : p = 0.000, Greater in Athletes, mean = 376.939
+PercMeas Diff for Precentral gyrus medial segment right volume % : p = 0.000, Greater in Athletes, mean = 383.975
+PercMeas Diff for Precentral gyrus medial segment left volume % : p = 0.000, Greater in Athletes, mean = 353.371
+PercMeas Diff for Precentral gyrus medial segment volume asymmetry : p = 0.049, Greater in Athletes, mean = 457.943
+PercMeas Diff for Subcallosal area total volume % : p = 0.000, Lesser in Athletes, mean = -194.341
+PercMeas Diff for Subcallosal area right volume % : p = 0.000, Lesser in Athletes, mean = -169.568
+PercMeas Diff for Subcallosal area left volume % : p = 0.000, Lesser in Athletes, mean = -143.766
+PercMeas Diff for Subcallosal area volume asymmetry : p = 0.386, Lesser in Athletes, mean = -44.042
+PercMeas Diff for Sup. frontal gyrus total volume % : p = 0.000, Greater in Athletes, mean = 1625.743
+PercMeas Diff for Sup. frontal gyrus right volume % : p = 0.000, Greater in Athletes, mean = 1376.304
+PercMeas Diff for Sup. frontal gyrus left volume % : p = 0.000, Greater in Athletes, mean = 1292.927
+PercMeas Diff for Sup. frontal gyrus volume asymmetry : p = 0.997, Lesser in Athletes, mean = -0.358
+PercMeas Diff for Sup. frontal gyrus medial segment total volume % : p = 0.000, Greater in Athletes, mean = 743.662
+PercMeas Diff for Sup. frontal gyrus medial segment right volume % : p = 0.000, Greater in Athletes, mean = 628.557
+PercMeas Diff for Sup. frontal gyrus medial segment left volume % : p = 0.000, Greater in Athletes, mean = 515.492
+PercMeas Diff for Sup. frontal gyrus medial segment volume asymmetry : p = 0.000, Greater in Athletes, mean = 478.051
+PercMeas Diff for Supplementary motor cortex total volume % : p = 0.000, Greater in Athletes, mean = 377.834
+PercMeas Diff for Supplementary motor cortex right volume % : p = 0.000, Greater in Athletes, mean = 324.255
+PercMeas Diff for Supplementary motor cortex left volume % : p = 0.000, Greater in Athletes, mean = 326.097
+PercMeas Diff for Supplementary motor cortex volume asymmetry : p = 0.160, Lesser in Athletes, mean = -135.986
+PercMeas Diff for Temporal lobe total volume % : p = 0.051, Greater in Athletes, mean = 21.347
+PercMeas Diff for Temporal lobe right volume % : p = 0.018, Greater in Athletes, mean = 26.484
+PercMeas Diff for Temporal lobe left volume % : p = 0.205, Greater in Athletes, mean = 13.007
+PercMeas Diff for Temporal lobe volume asymmetry : p = 0.397, Greater in Athletes, mean = 109.357
+PercMeas Diff for Fusiform gyrus total volume % : p = 0.000, Greater in Athletes, mean = 78.755
+PercMeas Diff for Fusiform gyrus right volume % : p = 0.000, Greater in Athletes, mean = 79.128
+PercMeas Diff for Fusiform gyrus left volume % : p = 0.000, Greater in Athletes, mean = 47.286
+PercMeas Diff for Fusiform gyrus volume asymmetry : p = 0.025, Greater in Athletes, mean = 217.911
+PercMeas Diff for Planum polare total volume % : p = 0.000, Lesser in Athletes, mean = -475.227
+PercMeas Diff for Planum polare right volume % : p = 0.000, Lesser in Athletes, mean = -435.877
+PercMeas Diff for Planum polare left volume % : p = 0.000, Lesser in Athletes, mean = -447.209
+PercMeas Diff for Planum polare volume asymmetry : p = 0.028, Lesser in Athletes, mean = -453.444
+PercMeas Diff for Planum temporale total volume % : p = 0.000, Lesser in Athletes, mean = -709.694
+PercMeas Diff for Planum temporale right volume % : p = 0.000, Lesser in Athletes, mean = -619.578
+PercMeas Diff for Planum temporale left volume % : p = 0.000, Lesser in Athletes, mean = -516.909
+PercMeas Diff for Planum temporale volume asymmetry : p = 0.000, Lesser in Athletes, mean = -2083.085
+PercMeas Diff for Inf. temporal gyrus total volume % : p = 0.107, Greater in Athletes, mean = 12.179
+PercMeas Diff for Inf. temporal gyrus right volume % : p = 0.001, Greater in Athletes, mean = 26.716
+PercMeas Diff for Inf. temporal gyrus left volume % : p = 0.281, Lesser in Athletes, mean = -7.624
+PercMeas Diff for Inf. temporal gyrus volume asymmetry : p = 0.007, Greater in Athletes, mean = 296.114
+PercMeas Diff for Middle temporal gyrus total volume % : p = 0.000, Greater in Athletes, mean = 3073.440
+PercMeas Diff for Middle temporal gyrus right volume % : p = 0.000, Greater in Athletes, mean = 2716.588
+PercMeas Diff for Middle temporal gyrus left volume % : p = 0.000, Greater in Athletes, mean = 2461.320
+PercMeas Diff for Middle temporal gyrus volume asymmetry : p = 0.012, Greater in Athletes, mean = 231.352
+PercMeas Diff for Sup. temporal gyrus total volume % : p = 0.000, Greater in Athletes, mean = 1522.983
+PercMeas Diff for Sup. temporal gyrus right volume % : p = 0.000, Greater in Athletes, mean = 1175.629
+PercMeas Diff for Sup. temporal gyrus left volume % : p = 0.000, Greater in Athletes, mean = 1305.905
+PercMeas Diff for Sup. temporal gyrus volume asymmetry : p = 0.033, Lesser in Athletes, mean = -182.413
+PercMeas Diff for Transverse temporal gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -71.288
+PercMeas Diff for Transverse temporal gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -40.178
+PercMeas Diff for Transverse temporal gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -77.518
+PercMeas Diff for Transverse temporal gyrus volume asymmetry : p = 0.000, Lesser in Athletes, mean = -405.187
+PercMeas Diff for Temporal pole total volume % : p = 0.000, Greater in Athletes, mean = 97.784
+PercMeas Diff for Temporal pole right volume % : p = 0.000, Greater in Athletes, mean = 81.401
+PercMeas Diff for Temporal pole left volume % : p = 0.000, Greater in Athletes, mean = 90.853
+PercMeas Diff for Temporal pole volume asymmetry : p = 0.412, Greater in Athletes, mean = 53.837
+PercMeas Diff for Parietal lobe total volume % : p = 0.025, Greater in Athletes, mean = 21.311
+PercMeas Diff for Parietal lobe right volume % : p = 0.052, Greater in Athletes, mean = 18.119
+PercMeas Diff for Parietal lobe left volume % : p = 0.032, Greater in Athletes, mean = 20.452
+PercMeas Diff for Parietal lobe volume asymmetry : p = 0.091, Greater in Athletes, mean = 212.863
+PercMeas Diff for Angular gyrus total volume % : p = 0.000, Greater in Athletes, mean = 2666.815
+PercMeas Diff for Angular gyrus right volume % : p = 0.000, Greater in Athletes, mean = 2174.381
+PercMeas Diff for Angular gyrus left volume % : p = 0.000, Greater in Athletes, mean = 2070.969
+PercMeas Diff for Angular gyrus volume asymmetry : p = 0.000, Greater in Athletes, mean = 558.990
+PercMeas Diff for Postcentral gyrus total volume % : p = 0.106, Greater in Athletes, mean = 16.424
+PercMeas Diff for Postcentral gyrus right volume % : p = 0.204, Greater in Athletes, mean = 13.392
+PercMeas Diff for Postcentral gyrus left volume % : p = 0.186, Greater in Athletes, mean = 12.216
+PercMeas Diff for Postcentral gyrus volume asymmetry : p = 0.000, Lesser in Athletes, mean = -649.432
+PercMeas Diff for Postcentral gyrus medial segment total volume % : p = 0.000, Lesser in Athletes, mean = -530.756
+PercMeas Diff for Postcentral gyrus medial segment right volume % : p = 0.000, Lesser in Athletes, mean = -395.296
+PercMeas Diff for Postcentral gyrus medial segment left volume % : p = 0.000, Lesser in Athletes, mean = -459.277
+PercMeas Diff for Postcentral gyrus medial segment volume asymmetry : p = 0.001, Greater in Athletes, mean = 613.233
+PercMeas Diff for Precuneus total volume % : p = 0.000, Greater in Athletes, mean = 32.687
+PercMeas Diff for Precuneus right volume % : p = 0.000, Greater in Athletes, mean = 36.868
+PercMeas Diff for Precuneus left volume % : p = 0.002, Greater in Athletes, mean = 21.900
+PercMeas Diff for Precuneus volume asymmetry : p = 0.017, Greater in Athletes, mean = 204.827
+PercMeas Diff for Sup. parietal lobule total volume % : p = 0.000, Greater in Athletes, mean = 33.848
+PercMeas Diff for Sup. parietal lobule right volume % : p = 0.742, Lesser in Athletes, mean = -2.803
+PercMeas Diff for Sup. parietal lobule left volume % : p = 0.000, Greater in Athletes, mean = 59.398
+PercMeas Diff for Sup. parietal lobule volume asymmetry : p = 0.536, Lesser in Athletes, mean = -53.906
+PercMeas Diff for Supramarginal gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -187.574
+PercMeas Diff for Supramarginal gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -200.918
+PercMeas Diff for Supramarginal gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -135.911
+PercMeas Diff for Supramarginal gyrus volume asymmetry : p = 0.000, Lesser in Athletes, mean = -1123.659
+PercMeas Diff for Occipital lobe total volume % : p = 0.005, Greater in Athletes, mean = 22.837
+PercMeas Diff for Occipital lobe right volume % : p = 0.016, Greater in Athletes, mean = 18.030
+PercMeas Diff for Occipital lobe left volume % : p = 0.006, Greater in Athletes, mean = 25.426
+PercMeas Diff for Occipital lobe volume asymmetry : p = 0.000, Greater in Athletes, mean = 553.349
+PercMeas Diff for Calcarine cortex total volume % : p = 0.524, Lesser in Athletes, mean = -5.417
+PercMeas Diff for Calcarine cortex right volume % : p = 0.000, Lesser in Athletes, mean = -33.643
+PercMeas Diff for Calcarine cortex left volume % : p = 0.002, Greater in Athletes, mean = 24.571
+PercMeas Diff for Calcarine cortex volume asymmetry : p = 0.221, Lesser in Athletes, mean = -89.899
+PercMeas Diff for Cuneus total volume % : p = 0.000, Lesser in Athletes, mean = -159.177
+PercMeas Diff for Cuneus right volume % : p = 0.000, Lesser in Athletes, mean = -136.675
+PercMeas Diff for Cuneus left volume % : p = 0.000, Lesser in Athletes, mean = -119.647
+PercMeas Diff for Cuneus volume asymmetry : p = 0.001, Greater in Athletes, mean = 275.809
+PercMeas Diff for Lingual gyrus total volume % : p = 0.000, Greater in Athletes, mean = 315.756
+PercMeas Diff for Lingual gyrus right volume % : p = 0.000, Greater in Athletes, mean = 249.444
+PercMeas Diff for Lingual gyrus left volume % : p = 0.000, Greater in Athletes, mean = 248.297
+PercMeas Diff for Lingual gyrus volume asymmetry : p = 0.719, Greater in Athletes, mean = 27.064
+PercMeas Diff for Occipital fusiform gyrus total volume % : p = 0.000, Greater in Athletes, mean = 144.276
+PercMeas Diff for Occipital fusiform gyrus right volume % : p = 0.000, Greater in Athletes, mean = 107.627
+PercMeas Diff for Occipital fusiform gyrus left volume % : p = 0.000, Greater in Athletes, mean = 143.545
+PercMeas Diff for Occipital fusiform gyrus volume asymmetry : p = 0.010, Lesser in Athletes, mean = -381.321
+PercMeas Diff for Inf. occipital gyrus total volume % : p = 0.000, Greater in Athletes, mean = 295.196
+PercMeas Diff for Inf. occipital gyrus right volume % : p = 0.000, Greater in Athletes, mean = 234.440
+PercMeas Diff for Inf. occipital gyrus left volume % : p = 0.000, Greater in Athletes, mean = 195.925
+PercMeas Diff for Inf. occipital gyrus volume asymmetry : p = 0.003, Greater in Athletes, mean = 286.587
+PercMeas Diff for Middle occipital gyrus total volume % : p = 0.000, Greater in Athletes, mean = 60.035
+PercMeas Diff for Middle occipital gyrus right volume % : p = 0.000, Greater in Athletes, mean = 57.884
+PercMeas Diff for Middle occipital gyrus left volume % : p = 0.000, Greater in Athletes, mean = 41.396
+PercMeas Diff for Middle occipital gyrus volume asymmetry : p = 0.010, Greater in Athletes, mean = 459.027
+PercMeas Diff for Sup. occipital gyrus total volume % : p = 0.000, Lesser in Athletes, mean = -336.381
+PercMeas Diff for Sup. occipital gyrus right volume % : p = 0.000, Lesser in Athletes, mean = -273.243
+PercMeas Diff for Sup. occipital gyrus left volume % : p = 0.000, Lesser in Athletes, mean = -292.914
+PercMeas Diff for Sup. occipital gyrus volume asymmetry : p = 0.000, Greater in Athletes, mean = 1233.920
+PercMeas Diff for Occipital pole total volume % : p = 0.000, Lesser in Athletes, mean = -74.434
+PercMeas Diff for Occipital pole right volume % : p = 0.000, Lesser in Athletes, mean = -85.883
+PercMeas Diff for Occipital pole left volume % : p = 0.000, Lesser in Athletes, mean = -53.628
+PercMeas Diff for Occipital pole volume asymmetry : p = 0.029, Lesser in Athletes, mean = -433.859
+PercMeas Diff for Limbic cortex total volume % : p = 0.000, Greater in Athletes, mean = 39.961
+PercMeas Diff for Limbic cortex right volume % : p = 0.003, Greater in Athletes, mean = 29.343
+PercMeas Diff for Limbic cortex left volume % : p = 0.001, Greater in Athletes, mean = 36.779
+PercMeas Diff for Limbic cortex volume asymmetry : p = 0.000, Lesser in Athletes, mean = -569.196
+PercMeas Diff for Entorhinal area total volume % : p = 0.000, Lesser in Athletes, mean = -355.177
+PercMeas Diff for Entorhinal area right volume % : p = 0.000, Lesser in Athletes, mean = -246.774
+PercMeas Diff for Entorhinal area left volume % : p = 0.000, Lesser in Athletes, mean = -307.630
+PercMeas Diff for Entorhinal area volume asymmetry : p = 0.021, Greater in Athletes, mean = 198.442
+PercMeas Diff for Anterior cingulate gyrus total volume % : p = 0.000, Greater in Athletes, mean = 687.197
+PercMeas Diff for Anterior cingulate gyrus right volume % : p = 0.000, Greater in Athletes, mean = 524.146
+PercMeas Diff for Anterior cingulate gyrus left volume % : p = 0.000, Greater in Athletes, mean = 711.041
+PercMeas Diff for Anterior cingulate gyrus volume asymmetry : p = 0.000, Lesser in Athletes, mean = -745.965
+PercMeas Diff for Middle cingulate gyrus total volume % : p = 0.506, Greater in Athletes, mean = 4.847
+PercMeas Diff for Middle cingulate gyrus right volume % : p = 0.787, Greater in Athletes, mean = 1.990
+PercMeas Diff for Middle cingulate gyrus left volume % : p = 0.432, Greater in Athletes, mean = 6.047
+PercMeas Diff for Middle cingulate gyrus volume asymmetry : p = 0.956, Greater in Athletes, mean = 6.352
+PercMeas Diff for Posterior cingulate gyrus total volume % : p = 0.000, Greater in Athletes, mean = 34.115
+PercMeas Diff for Posterior cingulate gyrus right volume % : p = 0.002, Greater in Athletes, mean = 26.399
+PercMeas Diff for Posterior cingulate gyrus left volume % : p = 0.000, Greater in Athletes, mean = 31.816
+PercMeas Diff for Posterior cingulate gyrus volume asymmetry : p = 0.036, Lesser in Athletes, mean = -296.844
+PercMeas Diff for Parahippocampal gyrus total volume % : p = 0.011, Greater in Athletes, mean = 20.755
+PercMeas Diff for Parahippocampal gyrus right volume % : p = 0.009, Greater in Athletes, mean = 20.711
+PercMeas Diff for Parahippocampal gyrus left volume % : p = 0.065, Greater in Athletes, mean = 15.870
+PercMeas Diff for Parahippocampal gyrus volume asymmetry : p = 0.000, Lesser in Athletes, mean = -689.971
+PercMeas Diff for Insular cortex total volume % : p = 0.000, Greater in Athletes, mean = 46.206
+PercMeas Diff for Insular cortex right volume % : p = 0.000, Greater in Athletes, mean = 41.186
+PercMeas Diff for Insular cortex left volume % : p = 0.000, Greater in Athletes, mean = 44.695
+PercMeas Diff for Insular cortex volume asymmetry : p = 0.000, Lesser in Athletes, mean = -823.710
+PercMeas Diff for Anterior insula total volume % : p = 0.246, Greater in Athletes, mean = 8.416
+PercMeas Diff for Anterior insula right volume % : p = 0.080, Greater in Athletes, mean = 12.497
+PercMeas Diff for Anterior insula left volume % : p = 0.751, Greater in Athletes, mean = 2.541
+PercMeas Diff for Anterior insula volume asymmetry : p = 0.332, Lesser in Athletes, mean = -133.141
+PercMeas Diff for Posterior insula total volume % : p = 0.000, Greater in Athletes, mean = 26.740
+PercMeas Diff for Posterior insula right volume % : p = 0.032, Greater in Athletes, mean = 16.221
+PercMeas Diff for Posterior insula left volume % : p = 0.000, Greater in Athletes, mean = 33.452
+PercMeas Diff for Posterior insula volume asymmetry : p = 0.551, Greater in Athletes, mean = 81.107
+PercMeas Diff for Central operculum total volume % : p = 0.001, Greater in Athletes, mean = 31.924
+PercMeas Diff for Central operculum right volume % : p = 0.000, Greater in Athletes, mean = 38.116
+PercMeas Diff for Central operculum left volume % : p = 0.108, Greater in Athletes, mean = 15.824
+PercMeas Diff for Central operculum volume asymmetry : p = 0.771, Lesser in Athletes, mean = -38.479
+PercMeas Diff for Frontal operculum total volume % : p = 0.000, Lesser in Athletes, mean = -63.508
+PercMeas Diff for Frontal operculum right volume % : p = 0.020, Lesser in Athletes, mean = -26.199
+PercMeas Diff for Frontal operculum left volume % : p = 0.000, Lesser in Athletes, mean = -79.272
+PercMeas Diff for Frontal operculum volume asymmetry : p = 0.260, Lesser in Athletes, mean = -180.511
+PercMeas Diff for Parietal operculum total volume % : p = 0.000, Greater in Athletes, mean = 120.669
+PercMeas Diff for Parietal operculum right volume % : p = 0.000, Greater in Athletes, mean = 60.791
+PercMeas Diff for Parietal operculum left volume % : p = 0.000, Greater in Athletes, mean = 145.553
+PercMeas Diff for Parietal operculum volume asymmetry : p = 0.000, Lesser in Athletes, mean = -970.346
+PercMeas Diff for Inf. lateral ventricle total volume % : p = 0.160, Greater in Athletes, mean = 11.863
+PercMeas Diff for Inf. lateral ventricle right volume % : p = 0.565, Greater in Athletes, mean = 4.865
+PercMeas Diff for Inf. lateral ventricle left volume % : p = 0.126, Greater in Athletes, mean = 13.478
+PercMeas Diff for Inf. lateral ventricle volume asymmetry : p = 0.029, Greater in Athletes, mean = 256.847
+PercMeas Diff for Lateral ventricle total volume % : p = 0.759, Lesser in Athletes, mean = -3.694
+PercMeas Diff for Lateral ventricle right volume % : p = 0.701, Lesser in Athletes, mean = -4.695
+PercMeas Diff for Lateral ventricle left volume % : p = 0.704, Lesser in Athletes, mean = -4.250
+PercMeas Diff for Lateral ventricle volume asymmetry : p = 0.034, Lesser in Athletes, mean = -245.306
+PercMeas Diff for 3rd ventricle volume % : p = 0.843, Greater in Athletes, mean = 2.469
+PercMeas Diff for 4th ventricle volume % : p = 0.700, Greater in Athletes, mean = 2.886
+PercMeas Diff for External CSF volume % : p = 0.001, Lesser in Athletes, mean = -46.943
+PercMeas Diff for Lobules I-V volume % : p = 0.027, Lesser in Athletes, mean = -18.618
+PercMeas Diff for Lobules VI-VII volume % : p = 0.417, Greater in Athletes, mean = 6.800
+PercMeas Diff for Lobules VIII-X volume % : p = 0.894, Greater in Athletes, mean = 1.266
+ChiSqr Diff for White Matter (WM) volume % : p = 0.703 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Grey Matter (GM) volume % : p = 0.019 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Subcortical GM volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cortical GM volume % : p = 0.052 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellar GM volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebro Spinal Fluid (CSF) volume % : p = 0.053 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Brain (WM+GM) volume % : p = 0.081 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Intracranial Cavity (IC) volume % : p = 0.419 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum total volume % : p = 0.249 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum right volume % : p = 0.249 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum left volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum volume asymmetry : p = 0.019 Greater in Athletes : Sig-15 Sig+40
+ChiSqr Diff for Cerebrum WM total volume % : p = 0.567 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum WM right volume % : p = 0.567 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum WM left volume % : p = 0.849 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum WM volume asymmetry : p = 0.177 Greater in Athletes : Sig-25 Sig+30
+ChiSqr Diff for Cerebrum GM total volume % : p = 0.081 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum GM right volume % : p = 0.052 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum GM left volume % : p = 0.052 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebrum GM volume asymmetry : p = 0.006 Greater in Athletes : Sig-13 Sig+42
+ChiSqr Diff for Cerebellum total volume % : p = 0.702 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum right volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum left volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum volume asymmetry : p = 0.000 Greater in Athletes : Sig-8 Sig+45
+ChiSqr Diff for Cerebellum WM total volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum WM right volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum WM left volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum WM volume asymmetry : p = 0.703 Lesser in Athletes : Sig-30 Sig+24
+ChiSqr Diff for Cerebellum GM total volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum GM right volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum GM left volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cerebellum GM volume asymmetry : p = 0.000 Greater in Athletes : Sig-5 Sig+49
+ChiSqr Diff for Vermis volume % : p = 0.445 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Brainstem volume % : p = 1.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Accumbens total volume % : p = 0.339 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Accumbens right volume % : p = 0.567 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Accumbens left volume % : p = 0.339 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Accumbens volume asymmetry : p = 0.000 Lesser in Athletes : Sig-50 Sig+5
+ChiSqr Diff for Amygdala total volume % : p = 0.849 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Amygdala right volume % : p = 0.849 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Amygdala left volume % : p = 0.179 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Amygdala volume asymmetry : p = 0.000 Greater in Athletes : Sig-6 Sig+49
+ChiSqr Diff for Basal forebrain total volume % : p = 0.000 Lesser in Athletes : Sig-55 Sig+0
+ChiSqr Diff for Basal forebrain right volume % : p = 0.000 Lesser in Athletes : Sig-55 Sig+0
+ChiSqr Diff for Basal forebrain left volume % : p = 0.000 Lesser in Athletes : Sig-55 Sig+0
+ChiSqr Diff for Basal forebrain volume asymmetry : p = 0.000 Lesser in Athletes : Sig-52 Sig+3
+ChiSqr Diff for Caudate total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Caudate right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Caudate left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Caudate volume asymmetry : p = 0.006 Greater in Athletes : Sig-13 Sig+38
+ChiSqr Diff for Hippocampus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+43
+ChiSqr Diff for Hippocampus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+45
+ChiSqr Diff for Hippocampus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+37
+ChiSqr Diff for Hippocampus volume asymmetry : p = 0.032 Greater in Athletes : Sig-20 Sig+35
+ChiSqr Diff for Pallidum total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Pallidum right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Pallidum left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Pallidum volume asymmetry : p = 0.000 Lesser in Athletes : Sig-47 Sig+8
+ChiSqr Diff for Putamen total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Putamen right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Putamen left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Putamen volume asymmetry : p = 0.445 Lesser in Athletes : Sig-32 Sig+23
+ChiSqr Diff for Thalamus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Thalamus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Thalamus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Thalamus volume asymmetry : p = 0.052 Greater in Athletes : Sig-47 Sig+8
+ChiSqr Diff for Ventral DC total volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Ventral DC right volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Ventral DC left volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Ventral DC volume asymmetry : p = 0.000 Lesser in Athletes : Sig-51 Sig+4
+ChiSqr Diff for Frontal lobe total volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal lobe right volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal lobe left volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal lobe volume asymmetry : p = 0.019 Greater in Athletes : Sig-15 Sig+37
+ChiSqr Diff for Frontal pole total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal pole right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal pole left volume % : p = 0.000 Lesser in Athletes : Sig-2 Sig+0
+ChiSqr Diff for Frontal pole volume asymmetry : p = 0.566 Greater in Athletes : Sig-28 Sig+27
+ChiSqr Diff for Gyrus rectus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Gyrus rectus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Gyrus rectus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Gyrus rectus volume asymmetry : p = 0.000 Greater in Athletes : Sig-9 Sig+46
+ChiSqr Diff for Opercular inf. frontal gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+1
+ChiSqr Diff for Opercular inf. frontal gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+3
+ChiSqr Diff for Opercular inf. frontal gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+3
+ChiSqr Diff for Opercular inf. frontal gyrus volume asymmetry : p = 0.703 Lesser in Athletes : Sig-32 Sig+21
+ChiSqr Diff for Orbital inf. frontal gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Orbital inf. frontal gyrus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Orbital inf. frontal gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Orbital inf. frontal gyrus volume asymmetry : p = 0.337 Greater in Athletes : Sig-22 Sig+33
+ChiSqr Diff for Triangular inf. frontal gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Triangular inf. frontal gyrus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Triangular inf. frontal gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Triangular inf. frontal gyrus volume asymmetry : p = 0.251 Lesser in Athletes : Sig-34 Sig+20
+ChiSqr Diff for Medial frontal cortex total volume % : p = 0.000 Lesser in Athletes : Sig-53 Sig+0
+ChiSqr Diff for Medial frontal cortex right volume % : p = 0.000 Lesser in Athletes : Sig-53 Sig+0
+ChiSqr Diff for Medial frontal cortex left volume % : p = 0.000 Lesser in Athletes : Sig-53 Sig+0
+ChiSqr Diff for Medial frontal cortex volume asymmetry : p = 0.566 Greater in Athletes : Sig-25 Sig+30
+ChiSqr Diff for Middle frontal gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Middle frontal gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Middle frontal gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Middle frontal gyrus volume asymmetry : p = 0.849 Greater in Athletes : Sig-35 Sig+19
+ChiSqr Diff for Anterior orbital gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Anterior orbital gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Anterior orbital gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Anterior orbital gyrus volume asymmetry : p = 0.566 Greater in Athletes : Sig-25 Sig+30
+ChiSqr Diff for Lateral orbital gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lateral orbital gyrus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lateral orbital gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lateral orbital gyrus volume asymmetry : p = 0.251 Lesser in Athletes : Sig-38 Sig+17
+ChiSqr Diff for Medial orbital gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Medial orbital gyrus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Medial orbital gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Medial orbital gyrus volume asymmetry : p = 0.567 Lesser in Athletes : Sig-33 Sig+22
+ChiSqr Diff for Posterior orbital gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior orbital gyrus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior orbital gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior orbital gyrus volume asymmetry : p = 0.849 Greater in Athletes : Sig-29 Sig+26
+ChiSqr Diff for Precentral gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Precentral gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Precentral gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Precentral gyrus volume asymmetry : p = 0.081 Greater in Athletes : Sig-26 Sig+28
+ChiSqr Diff for Precentral gyrus medial segment total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+37
+ChiSqr Diff for Precentral gyrus medial segment right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+39
+ChiSqr Diff for Precentral gyrus medial segment left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+35
+ChiSqr Diff for Precentral gyrus medial segment volume asymmetry : p = 0.249 Greater in Athletes : Sig-22 Sig+33
+ChiSqr Diff for Subcallosal area total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Subcallosal area right volume % : p = 0.000 Lesser in Athletes : Sig-5 Sig+0
+ChiSqr Diff for Subcallosal area left volume % : p = 0.000 Lesser in Athletes : Sig-3 Sig+0
+ChiSqr Diff for Subcallosal area volume asymmetry : p = 0.445 Lesser in Athletes : Sig-34 Sig+17
+ChiSqr Diff for Sup. frontal gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Sup. frontal gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Sup. frontal gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Sup. frontal gyrus volume asymmetry : p = 0.849 Lesser in Athletes : Sig-31 Sig+24
+ChiSqr Diff for Sup. frontal gyrus medial segment total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+52
+ChiSqr Diff for Sup. frontal gyrus medial segment right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+49
+ChiSqr Diff for Sup. frontal gyrus medial segment left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+40
+ChiSqr Diff for Sup. frontal gyrus medial segment volume asymmetry : p = 0.010 Greater in Athletes : Sig-15 Sig+40
+ChiSqr Diff for Supplementary motor cortex total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Supplementary motor cortex right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Supplementary motor cortex left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+1
+ChiSqr Diff for Supplementary motor cortex volume asymmetry : p = 0.339 Lesser in Athletes : Sig-32 Sig+23
+ChiSqr Diff for Temporal lobe total volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Temporal lobe right volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Temporal lobe left volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Temporal lobe volume asymmetry : p = 0.702 Greater in Athletes : Sig-27 Sig+28
+ChiSqr Diff for Fusiform gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Fusiform gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Fusiform gyrus left volume % : p = 0.003 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Fusiform gyrus volume asymmetry : p = 0.337 Greater in Athletes : Sig-27 Sig+28
+ChiSqr Diff for Planum polare total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Planum polare right volume % : p = 0.000 Lesser in Athletes : Sig-3 Sig+0
+ChiSqr Diff for Planum polare left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Planum polare volume asymmetry : p = 0.179 Lesser in Athletes : Sig-34 Sig+21
+ChiSqr Diff for Planum temporale total volume % : p = 0.000 Lesser in Athletes : Sig-7 Sig+0
+ChiSqr Diff for Planum temporale right volume % : p = 0.000 Lesser in Athletes : Sig-35 Sig+0
+ChiSqr Diff for Planum temporale left volume % : p = 0.000 Lesser in Athletes : Sig-27 Sig+0
+ChiSqr Diff for Planum temporale volume asymmetry : p = 0.000 Lesser in Athletes : Sig-49 Sig+6
+ChiSqr Diff for Inf. temporal gyrus total volume % : p = 1.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Inf. temporal gyrus right volume % : p = 0.081 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Inf. temporal gyrus left volume % : p = 0.251 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Inf. temporal gyrus volume asymmetry : p = 0.019 Greater in Athletes : Sig-23 Sig+32
+ChiSqr Diff for Middle temporal gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Middle temporal gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Middle temporal gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Middle temporal gyrus volume asymmetry : p = 0.052 Greater in Athletes : Sig-23 Sig+32
+ChiSqr Diff for Sup. temporal gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Sup. temporal gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Sup. temporal gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Sup. temporal gyrus volume asymmetry : p = 0.033 Lesser in Athletes : Sig-39 Sig+16
+ChiSqr Diff for Transverse temporal gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Transverse temporal gyrus right volume % : p = 0.002 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Transverse temporal gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Transverse temporal gyrus volume asymmetry : p = 0.002 Lesser in Athletes : Sig-44 Sig+11
+ChiSqr Diff for Temporal pole total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Temporal pole right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Temporal pole left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Temporal pole volume asymmetry : p = 0.444 Greater in Athletes : Sig-26 Sig+28
+ChiSqr Diff for Parietal lobe total volume % : p = 0.019 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parietal lobe right volume % : p = 0.032 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parietal lobe left volume % : p = 0.032 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parietal lobe volume asymmetry : p = 0.249 Greater in Athletes : Sig-22 Sig+31
+ChiSqr Diff for Angular gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Angular gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Angular gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+55
+ChiSqr Diff for Angular gyrus volume asymmetry : p = 0.000 Greater in Athletes : Sig-9 Sig+44
+ChiSqr Diff for Postcentral gyrus total volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Postcentral gyrus right volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Postcentral gyrus left volume % : p = 1.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Postcentral gyrus volume asymmetry : p = 0.001 Lesser in Athletes : Sig-45 Sig+10
+ChiSqr Diff for Postcentral gyrus medial segment total volume % : p = 0.000 Lesser in Athletes : Sig-51 Sig+0
+ChiSqr Diff for Postcentral gyrus medial segment right volume % : p = 0.000 Lesser in Athletes : Sig-55 Sig+0
+ChiSqr Diff for Postcentral gyrus medial segment left volume % : p = 0.000 Lesser in Athletes : Sig-54 Sig+0
+ChiSqr Diff for Postcentral gyrus medial segment volume asymmetry : p = 0.081 Greater in Athletes : Sig-21 Sig+34
+ChiSqr Diff for Precuneus total volume % : p = 0.001 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Precuneus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Precuneus left volume % : p = 0.032 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Precuneus volume asymmetry : p = 0.052 Greater in Athletes : Sig-21 Sig+34
+ChiSqr Diff for Sup. parietal lobule total volume % : p = 0.032 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Sup. parietal lobule right volume % : p = 0.445 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Sup. parietal lobule left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Sup. parietal lobule volume asymmetry : p = 0.567 Lesser in Athletes : Sig-32 Sig+20
+ChiSqr Diff for Supramarginal gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Supramarginal gyrus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Supramarginal gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Supramarginal gyrus volume asymmetry : p = 0.011 Lesser in Athletes : Sig-41 Sig+14
+ChiSqr Diff for Occipital lobe total volume % : p = 0.010 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital lobe right volume % : p = 0.019 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital lobe left volume % : p = 0.122 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital lobe volume asymmetry : p = 0.019 Greater in Athletes : Sig-16 Sig+36
+ChiSqr Diff for Calcarine cortex total volume % : p = 0.703 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Calcarine cortex right volume % : p = 0.020 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Calcarine cortex left volume % : p = 0.052 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Calcarine cortex volume asymmetry : p = 0.703 Lesser in Athletes : Sig-30 Sig+18
+ChiSqr Diff for Cuneus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cuneus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cuneus left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Cuneus volume asymmetry : p = 0.032 Greater in Athletes : Sig-17 Sig+38
+ChiSqr Diff for Lingual gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lingual gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lingual gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lingual gyrus volume asymmetry : p = 0.849 Lesser in Athletes : Sig-32 Sig+21
+ChiSqr Diff for Occipital fusiform gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital fusiform gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital fusiform gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital fusiform gyrus volume asymmetry : p = 0.053 Lesser in Athletes : Sig-38 Sig+16
+ChiSqr Diff for Inf. occipital gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Inf. occipital gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+1
+ChiSqr Diff for Inf. occipital gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Inf. occipital gyrus volume asymmetry : p = 0.249 Greater in Athletes : Sig-25 Sig+30
+ChiSqr Diff for Middle occipital gyrus total volume % : p = 0.003 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Middle occipital gyrus right volume % : p = 0.003 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Middle occipital gyrus left volume % : p = 0.006 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Middle occipital gyrus volume asymmetry : p = 0.081 Greater in Athletes : Sig-18 Sig+37
+ChiSqr Diff for Sup. occipital gyrus total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Sup. occipital gyrus right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Sup. occipital gyrus left volume % : p = 0.000 Lesser in Athletes : Sig-2 Sig+0
+ChiSqr Diff for Sup. occipital gyrus volume asymmetry : p = 0.000 Greater in Athletes : Sig-10 Sig+45
+ChiSqr Diff for Occipital pole total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital pole right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital pole left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Occipital pole volume asymmetry : p = 0.124 Lesser in Athletes : Sig-38 Sig+16
+ChiSqr Diff for Limbic cortex total volume % : p = 0.032 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Limbic cortex right volume % : p = 0.177 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Limbic cortex left volume % : p = 0.052 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Limbic cortex volume asymmetry : p = 0.020 Lesser in Athletes : Sig-42 Sig+13
+ChiSqr Diff for Entorhinal area total volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Entorhinal area right volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Entorhinal area left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Entorhinal area volume asymmetry : p = 0.081 Greater in Athletes : Sig-23 Sig+32
+ChiSqr Diff for Anterior cingulate gyrus total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+49
+ChiSqr Diff for Anterior cingulate gyrus right volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+39
+ChiSqr Diff for Anterior cingulate gyrus left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+51
+ChiSqr Diff for Anterior cingulate gyrus volume asymmetry : p = 0.001 Lesser in Athletes : Sig-46 Sig+9
+ChiSqr Diff for Middle cingulate gyrus total volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Middle cingulate gyrus right volume % : p = 1.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Middle cingulate gyrus left volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Middle cingulate gyrus volume asymmetry : p = 0.849 Lesser in Athletes : Sig-30 Sig+24
+ChiSqr Diff for Posterior cingulate gyrus total volume % : p = 0.032 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior cingulate gyrus right volume % : p = 0.122 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior cingulate gyrus left volume % : p = 0.122 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior cingulate gyrus volume asymmetry : p = 0.445 Lesser in Athletes : Sig-34 Sig+21
+ChiSqr Diff for Parahippocampal gyrus total volume % : p = 0.122 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parahippocampal gyrus right volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parahippocampal gyrus left volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parahippocampal gyrus volume asymmetry : p = 0.000 Lesser in Athletes : Sig-47 Sig+8
+ChiSqr Diff for Insular cortex total volume % : p = 0.019 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Insular cortex right volume % : p = 0.052 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Insular cortex left volume % : p = 0.006 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Insular cortex volume asymmetry : p = 0.000 Lesser in Athletes : Sig-47 Sig+8
+ChiSqr Diff for Anterior insula total volume % : p = 0.444 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Anterior insula right volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Anterior insula left volume % : p = 1.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Anterior insula volume asymmetry : p = 0.124 Lesser in Athletes : Sig-40 Sig+15
+ChiSqr Diff for Posterior insula total volume % : p = 0.019 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior insula right volume % : p = 0.019 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior insula left volume % : p = 0.081 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Posterior insula volume asymmetry : p = 0.849 Lesser in Athletes : Sig-33 Sig+22
+ChiSqr Diff for Central operculum total volume % : p = 0.052 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Central operculum right volume % : p = 0.010 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Central operculum left volume % : p = 0.337 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Central operculum volume asymmetry : p = 0.849 Lesser in Athletes : Sig-32 Sig+23
+ChiSqr Diff for Frontal operculum total volume % : p = 0.002 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal operculum right volume % : p = 0.053 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal operculum left volume % : p = 0.000 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Frontal operculum volume asymmetry : p = 0.339 Lesser in Athletes : Sig-35 Sig+20
+ChiSqr Diff for Parietal operculum total volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parietal operculum right volume % : p = 0.006 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parietal operculum left volume % : p = 0.000 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Parietal operculum volume asymmetry : p = 0.000 Lesser in Athletes : Sig-52 Sig+3
+ChiSqr Diff for Inf. lateral ventricle total volume % : p = 0.249 Greater in Athletes : Sig-0 Sig+1
+ChiSqr Diff for Inf. lateral ventricle right volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+1
+ChiSqr Diff for Inf. lateral ventricle left volume % : p = 0.122 Greater in Athletes : Sig-2 Sig+1
+ChiSqr Diff for Inf. lateral ventricle volume asymmetry : p = 0.444 Greater in Athletes : Sig-24 Sig+31
+ChiSqr Diff for Lateral ventricle total volume % : p = 0.703 Lesser in Athletes : Sig-5 Sig+1
+ChiSqr Diff for Lateral ventricle right volume % : p = 0.567 Lesser in Athletes : Sig-6 Sig+2
+ChiSqr Diff for Lateral ventricle left volume % : p = 0.567 Lesser in Athletes : Sig-6 Sig+1
+ChiSqr Diff for Lateral ventricle volume asymmetry : p = 0.053 Lesser in Athletes : Sig-39 Sig+16
+ChiSqr Diff for 3rd ventricle volume % : p = 1.000 Greater in Athletes : Sig-2 Sig+2
+ChiSqr Diff for 4th ventricle volume % : p = 0.566 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for External CSF volume % : p = 0.033 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lobules I-V volume % : p = 0.445 Lesser in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lobules VI-VII volume % : p = 0.702 Greater in Athletes : Sig-0 Sig+0
+ChiSqr Diff for Lobules VIII-X volume % : p = 0.445 Lesser in Athletes : Sig-0 Sig+0
